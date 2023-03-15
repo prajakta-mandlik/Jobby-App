@@ -1,0 +1,44 @@
+.jobs-container {
+  display: flex;
+  justify-content: space-between;
+  background-color: #000000;
+  min-height: 100vh;
+  width: 100%;
+  padding: 40px;
+  margin: 0;
+}
+
+.jobCard-container {
+  list-style-type: none;
+  width: 80%;
+}
+
+.search-container {
+  display: flex;
+  align-items: center;
+  border: 1px solid #cbd5e1;
+  width: 400px;
+  border-radius: 5px;
+  margin-bottom: 40px;
+}
+
+.search-bar {
+  background-color: transparent;
+  padding: 10px;
+  border: 0;
+  width: 400px;
+  outline: none;
+  color: #f1f5f9;
+}
+
+.icon {
+  color: aliceblue;
+  width: 70px;
+  height: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #202020;
+  border: 0;
+  cursor: pointer;
+}

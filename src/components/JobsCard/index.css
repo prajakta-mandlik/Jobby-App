@@ -1,0 +1,40 @@
+.card-container {
+  background-color: #202020;
+  padding: 30px;
+  border-radius: 10px;
+  color: #f1f5f9;
+  font-family: roboto;
+  margin-bottom: 10px;
+}
+
+.heading-container {
+  display: flex;
+  align-items: center;
+}
+
+.company-logo {
+  height: 60px;
+  margin-right: 20px;
+}
+
+.company-heading {
+  font-size: 20px;
+}
+
+.location-info {
+  display: flex;
+  justify-content: space-between;
+}
+
+.location {
+  margin-right: 10px;
+}
+
+.description-title {
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.card-link {
+  text-decoration: none;
+}
